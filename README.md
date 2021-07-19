@@ -1,9 +1,9 @@
 # View-Increase
-Tool For Increase Website or Blog View and Ranked your website on Google Search🤩
+Tool to Increase Website or Blog View and Rank your website on Google Search😎
 # BlogViewer
-![banner-fos](https://1.bp.blogspot.com/-D7E6AaSLFUY/XyVEyOaYjMI/AAAAAAAAAN4/3i7lmjxjp_ghjnjs-fQcLG7z3GwmPWfWQCLcBGAsYHQ/s861/Screenshot_20200801_160126.jpg)
- #### We create this php script for Increase Website or Blog View and ranked your website on Google Search
- 
+#  <p align="center"><a href="https://github.com/AbhiTheModder"><img src="https://telegra.ph/file/3473b05e1550358456e73.jpg" alt="Bt">
+#### I created this php script to Increase Website or Blog View and rank your website on Google Search🙃
+
  ## Termux 
     pkg install php
     
@@ -11,27 +11,22 @@ Tool For Increase Website or Blog View and Ranked your website on Google Search�
     
     cd BlogViewer
     
-    chmod +x BlogViewer.php
-    
     php BlogViewer.php
     
 ## :heavy_exclamation_mark:Requirements
      Linux operating system with php (Kali linux, Termux (or) other Linux OS) or windows with php installed.
        
 ## Demo
- [![Alt text](https://1.bp.blogspot.com/-rdi8kcWM5bw/XyVHSyYx0KI/AAAAAAAAAOE/G5y9xvtgEhwmjJ6niVUWSQ4-VMmnMaORwCLcBGAsYHQ/s2048/Picture_20200719_155149686.jpg)](https://youtu.be/vVOadS6ercM)
-  
+      Soon I'll create a demo video 📷
  ## :octocat:Credits:
-* Termux Professor: [Youtuber | Developer ](https://www.youtube.com/channel/UCtBILuQgvXHPfvOUdcmMS2Q)
+* ABHI: [Youtuber | Developer | Hacker(noob) | Reverse Engineer ](https://www.youtube.com/channel/UCtBILuQgvXHPfvOUdcmMS2Q)
 
  ## Support !
-  Email address: termuxprofessor@gmail.com  for more details.
+  Youtube:[ABHI - THE MØÐÐĒR](https://www.youtube.com/channel/UCtBILuQgvXHPfvOUdcmMS2Q)
 
-  Youtube:[Termux Professor](https://www.youtube.com/c/TermuxProfessorYT)
+  Website:[ABHI - THE MØÐÐĒR](https://smile-learn.blogspot.com/)
 
-  Website:[Get Code](https://www.getredeemcode.com)
-
-  Telegarm Group:[Termux -Discussion Group](https://t.me/termuxqueenyt)
+  Telegarm:[ABHI - THE MØÐÐĒR](https://t.me/joinchat/xP-wW-A5mIBmMjY1)
 
 
 ## Disclaimer: 
