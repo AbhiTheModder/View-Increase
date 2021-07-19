@@ -7,7 +7,7 @@ Tool to Increase Website or Blog View and Rank your website on Google Search😎
  ## Termux 
     pkg install php
     
-    git clone https://github.com/termuxprofessor/BlogViewer.git
+    git clone https://github.com/AbhiTheModder/View-Increase.git
     
     cd BlogViewer
     
