@@ -9,9 +9,9 @@ Tool to Increase Website or Blog View and Rank your website on Google Search😎
     
     git clone https://github.com/AbhiTheModder/View-Increase.git
     
-    cd BlogViewer
+    cd View-Increase
     
-    php BlogViewer.php
+    php ViewIncrease.php
     
 ## :heavy_exclamation_mark:Requirements
      Linux operating system with php (Kali linux, Termux (or) other Linux OS) or windows with php installed.
