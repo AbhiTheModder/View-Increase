@@ -28,6 +28,8 @@ $url = trim(fgets(STDIN));
 echo "$cyan [2] Enter Number of Visitors : "; 
 $max = trim(fgets(STDIN));
 
+echo "$merah / Thanks for using this tool 🔥 by ABHI  /\n";
+
 error_reporting(0);
 class Random_UA
  {
